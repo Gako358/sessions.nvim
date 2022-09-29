@@ -14,7 +14,6 @@
                 python3Packages.poetry
                 sumneko-lua-language-server
                 luajit
-                lua
             ];
         };
 
